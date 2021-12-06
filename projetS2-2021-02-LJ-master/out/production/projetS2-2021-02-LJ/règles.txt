@@ -1,0 +1,26 @@
+La Bataille navale est un jeu où le but est de faire couler les bateaux adverses avant les nôtres.
+Les tirs se font à l'aveugle, c'est à dire que chacun ignore les postions des bateaux adverses.
+
+Au début de la partie, chaque joueur positionne ses bateaux verticalement ou horizontalement, dans une configuration prédéfinie :
+- La configuration française : 1 porte-avion, 1 cuirassé, 2 croiseurs, 2 torpilleurs, 1 sous-marin
+- La configuration belge : 1 cuirassé, 2 croiseurs, 3 torpilleurs, 4 sous-marins
+
+Les bateaux sont de la taille suivante :
+- Porte-avion : 5 cases
+- Cuirassé : 4 cases
+- Croiseur : 3 cases
+- Torpilleur : 2 cases
+- Sous-marin : 1 case
+
+Après le positionnement des bateaux, tour à tour, les joueurs tirent sur la grille adverse en cliquant sur
+les cases correspondantes.
+
+Si le joueur ne touche pas de bateau, c'est un raté.
+Si le joueur touche une partie d'un bateau, c'est un touché.
+Si le joueur touche la dernière partie d'un bateau, c'est un touché coulé.
+
+La partie se termine lorsque tous les bateaux d'un joueur sont coulés.
+
+Pour plus d'informations, voici le lien Wikipédia du jeu : https://fr.wikipedia.org/wiki/Bataille_navale_(jeu) .
+
+Bon jeu ! 😉

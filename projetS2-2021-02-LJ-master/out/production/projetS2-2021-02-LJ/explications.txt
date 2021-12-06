@@ -1,0 +1,9 @@
+Pour constituer une flotte, il faut tout d'abord choisir la position avant du bateau que l'on veut ajouter.
+
+Ensuite, il faudra choisir dans quelle direction mettre la position arrière du bateau (sauf si vous voulez ajouter un sous-marin, dans ce cas vous pouvez passer cette étape).
+
+Et enfin, vous n'avez plus qu'à choisir le bateau voulu et le tour est joué !
+
+En cas d'erreur (position inexistante ou déjà prise), un message d'erreur viendra vous prévenir et vous pourrez ainsi réparer votre erreur en remettant les données du bateau.
+
+Une fois tous les bateaux placés, vous pouvez commencer à jouer !
